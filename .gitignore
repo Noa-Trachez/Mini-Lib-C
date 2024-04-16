@@ -1,0 +1,5 @@
+a.out
+.idea
+main.cpp
+libasm.so
+*.o
